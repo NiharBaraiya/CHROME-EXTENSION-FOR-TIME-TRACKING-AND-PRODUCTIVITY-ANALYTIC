@@ -29,21 +29,20 @@ A **Chrome Extension** that **tracks the time spent on different websites** and 
 
 ## 📂 Project Structure  
 
-time-tracker-extension/
-
-    ─ manifest.json
-    ─ background.js
-    ─ content.js
-    ─ popup/
-        ─ popup.html
-        ─ popup.js
-        ─ popup.css
-    ─ dashboard/
-        ─ dashboard.html
-        ─ dashboard.js
-        ─ dashboard.css
-    ─ server/
-        ─ server.js
-        ─ database.json  (For simple storage)
-    ─ package.json
+    time-tracker-extension/
+        ─ manifest.json
+        ─ background.js
+        ─ content.js
+        ─ popup/
+            ─ popup.html
+            ─ popup.js
+            ─ popup.css
+        ─ dashboard/
+            ─ dashboard.html
+            ─ dashboard.js
+            ─ dashboard.css
+        ─ server/
+            ─ server.js
+            ─ database.json  (For simple storage)
+        ─ package.json
 
