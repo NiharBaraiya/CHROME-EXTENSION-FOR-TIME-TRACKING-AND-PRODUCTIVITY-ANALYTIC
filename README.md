@@ -46,3 +46,27 @@ A **Chrome Extension** that **tracks the time spent on different websites** and 
             ─ database.json  (For simple storage)
         ─ package.json
 
+
+
+## 📊 How It Works  
+1. **Browse Websites** → The extension tracks time spent.  
+2. **Check Popup** → Shows a quick summary of tracked websites.  
+3. **View Dashboard** → Categorizes websites as **productive/unproductive**.  
+4. **Clear Data** → Reset tracking anytime.  
+5. **Download Report** → Save tracking data as a `.txt` file.  
+
+
+## 🛠 Built With  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** JSON (or MongoDB integration possible)  
+- **Extension API:** Chrome Extensions Manifest v3  
+
+
+## 🎯 Future Enhancements  
+- 🔹 Add MongoDB instead of JSON storage  
+- 🔹 Improve UI with charts (e.g., Chart.js)  
+- 🔹 Add **website blocking** for unproductive sites  
+- 🔹 Set **custom productivity categories**  
+
+## Output
