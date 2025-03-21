@@ -64,10 +64,10 @@ A **Chrome Extension** that **tracks the time spent on different websites** and 
 
 
 ## 🎯 Future Enhancements  
-- 🔹 Add MongoDB instead of JSON storage  
-- 🔹 Improve UI with charts (e.g., Chart.js)  
-- 🔹 Add **website blocking** for unproductive sites  
-- 🔹 Set **custom productivity categories**  
+- Add MongoDB instead of JSON storage  
+- Improve UI with charts (e.g., Chart.js)  
+- Add **website blocking** for unproductive sites  
+- Set **custom productivity categories**  
 
 ## Output
 
